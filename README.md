@@ -26,17 +26,17 @@ This repository contains the code and datasets for the manuscript "Predicting Pr
 
   - Download contains KG, embeddings, uniprot2genename, and reactome2pathwayname files  
 
-   - data/df_edges.csv: main KG edge file 
+   - `data/df_edges.csv`: main KG edge file 
 
-   - data/df_node.csv: KG node file 
+   - `data/df_node.csv`: KG node file 
 
-   - data/df_relation.csv: KG relation type file 
+   - `data/df_relation.csv`: KG relation type file 
 
-   - data/df_type.csv: KG node type file 
+   - `data/df_type.csv`: KG node type file 
 
-   - data/original/GeneNameMapping.txt: UniProtID to name mapping file. One of the input files for GeneratingKinaseGraph 
+   - `data/original/GeneNameMapping.txt`: UniProtID to name mapping file. One of the input files for GeneratingKinaseGraph 
 
-   - data/original/ReactomePathways.txt: ReactomeID to name mapping file. One of the input files for GeneratingKianseGraph 
+   - `data/original/ReactomePathways.txt`: ReactomeID to name mapping file. One of the input files for GeneratingKianseGraph 
 
    
 
