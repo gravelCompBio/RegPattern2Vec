@@ -122,7 +122,7 @@ From pip:
 
 ```  
 
-git clone https://github.com/gravelCompBio/RegPattern2VecGraphPattern2vec.git 
+git clone https://github.com/gravelCompBio/RegPattern2Vec.git
 
 ```  
 
