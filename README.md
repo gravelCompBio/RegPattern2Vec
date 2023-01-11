@@ -287,7 +287,7 @@ After running the Link Prediction Notebook (data/results/df_prediction_name_emb_
 ) , the model will output a CSV file: 
 
 Example here with first 5 rows: 
-
+``` 
 uniprot,ProteinName,Pathway_id,Pathway_Name,Score 
 
 Q9H8X2,IPPK,1855191,Synthesis of IPs in the nucleus,0.999999998802044 
@@ -299,7 +299,7 @@ Q9H8X2,IPPK,1855167,Synthesis of pyrophosphates in the cytosol,0.999999995070017
 Q13237,PRKG2,8978934,Metabolism of cofactors,0.9999999891668171 
 
 Q13237,PRKG2,1474151,"Tetrahydrobiopterin (BH4) synthesis, recycling, salvage and regulation",0.9999999819057269 
-
+``` 
  
 
 Row Names: 
