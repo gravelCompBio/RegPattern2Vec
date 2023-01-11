@@ -138,7 +138,6 @@ cd RegPattern2vec/
 
 https://outlookuga-my.sharepoint.com/:u:/g/personal/nmg60976_uga_edu/EatErUI0YUNMnDxxk-LOcnYBvG30lkW2weNIv2WuUfZVzw?e=Ig92AU 
 
-(Consider using figshare) 
 
   
 
