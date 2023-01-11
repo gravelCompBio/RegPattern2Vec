@@ -202,7 +202,7 @@ or
 
   
 
-# Please Read this Section before running the link prediction section in either notebook!  Section for generating user embeddings from outside data!   
+## Please Read this Section before running the link prediction section in either notebook!  Section for generating user embeddings from outside data!   
 
   
 
