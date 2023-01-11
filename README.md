@@ -262,9 +262,13 @@ Example code of how we put it in the terminal
 
 ```  
 
-./metapath2vec 
+make metapath2vec -B
 
-```  
+```
+
+``` 
+./metapath2vec -train data/walk_GP2vec_test_REL_simplified_sep_probs_40_40_0_0_bwV4.csv -output data/GP2VEC_emb_walk_file_40_40_0_0_bwV4_s256_w7_n5_mc5 -threads 32 -size 256 -window 7 -negative 5 -min-count 5 -pp 1
+``` 
 
  Run the rest of the cells after the Link Prediction section, after inputting embedding file generated outside of notebook. 
 
