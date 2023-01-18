@@ -46,9 +46,9 @@ This repository contains the code and datasets for the manuscript "Predicting Pr
 
 - 2 Jupyter lab notebooks files 
 
-  - Notebook for measuring the accuracy (insert) 
+  - Notebook for measuring the accuracy `graphpattern2vec_process-multithread-Edited2022.ipynb` 
 
-  - Notebook for prediction generation (insert) 
+  - Notebook for prediction generation `graphpattern2vec_process-multithread-PREDICTION-Edited2022.ipynb` 
 
    
 
