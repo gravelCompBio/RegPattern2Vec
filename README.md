@@ -41,6 +41,8 @@ This repository contains the code and datasets for the manuscript "Predicting Pr
    - `data/original/GeneNameMapping.txt`: UniProtID to name mapping file. One of the input files for GeneratingKinaseGraph 
 
    - `data/original/ReactomePathways.txt`: ReactomeID to name mapping file. One of the input files for GeneratingKianseGraph 
+  
+   - `benchmarkCofigFiles`: Has 3 files that can be used to set the paramaters for the supplementary benchmarks models
 
    
 
