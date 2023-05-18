@@ -243,7 +243,7 @@ or
 
 #### This is only if you want to run this pipeline on custom data. If you are running this pipline on our data/KG provided, you do not have to run metapath2vec because the we provide the embedding files (output of metapath2vec) in the `DownloadLinkForData.txt` 
 
-Also this version of metapath2vec we use is computationally expensive and our KG took 200Gb of ram with over 2 days of runtime with 64 cores so if you can find a more effencint version of metapath2vec that you trust, I would suggest you use others versions (one example is embiggen(grape)) https://github.com/AnacletoLAB/grape
+Also the version of metapath2vec we use (https://github.com/Change2vec/change2vec/tree/master/metapath2vec/code_metapath2vec ) is computationally expensive and our KG took 200Gb of ram with over 2 days of runtime with 64 cores so if you can find a more effencint version of metapath2vec that you trust, I would suggest you use others versions (one example is embiggen(grape) https://github.com/AnacletoLAB/grape)
 
 We utilize files produced by our model containing nodes collected through RegPattern2Vec as input into a portion of the pipeline for metapath2vec used vectorize the KG nodes and generate embeddings  
 
