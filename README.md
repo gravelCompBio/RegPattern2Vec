@@ -250,7 +250,7 @@ We utilize files produced by our model containing nodes collected through RegPat
 If the user is generating their own data and using their own embedding files, all cells in the notebook should be run until the Link Prediction section then you should create the embeddings with metapath2vec. 
 
  
-
+## metapath2vec and createing the embeddings   
 The code can be accessed from:    
 
 #### https://github.com/Change2vec/change2vec/tree/master/metapath2vec/code_metapath2vec 
