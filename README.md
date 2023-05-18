@@ -199,7 +199,9 @@ jupyter lab
 
 #### ------ graphpattern2vec_process-multithread-Edited2022   
 
+
 - for measuring accuracy of the model (AUC-ROC)  
+- has split funtion for benchmarking so only will not give the best predictions
 
   
 
