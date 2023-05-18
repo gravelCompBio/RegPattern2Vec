@@ -54,25 +54,25 @@ This repository contains the code and datasets for the manuscript "Predicting Pr
 
    
 
-- gp2v.yml file 
+- `gp2v.yml`: file 
 
   - file can be used to create the environment  
 
    
 
-- graphpattern2vec folders  
+- `graphpattern2vec`: folders  
 
   - folder holds the objects/functions of RegPattern2Vec 
 
   
 
-- Readme.md file 
+- `Readme.md`: file 
 
   - You're reading it right now 
 
    
 
-- model folder  
+- `model`: folder  
 
   - folder holds temporary files  
 
