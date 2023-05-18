@@ -20,11 +20,11 @@ This repository contains the code and datasets for the manuscript "Predicting Pr
 
   
 
-- DownloadLinkForData.txt file (the onedrive link in the README.md is the same in this text file )
+  - DownloadLinkForData.txt file (the onedrive link in the README.md is the same in this text file )
 
-  - file contains link for download  
+    - file contains link for download  
 
-  - Download contains KG, embeddings, uniprot2genename, and reactome2pathwayname files  
+    - Download contains KG, embeddings, uniprot2genename, and reactome2pathwayname files  
   
    - `data/GP2VEC_emb_walk_file_40_40_0_0_bwV4_s256_w7_n5_mc5.txt`: embedding KG file
    
