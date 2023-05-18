@@ -25,6 +25,8 @@ This repository contains the code and datasets for the manuscript "Predicting Pr
     - file contains link for download  
 
     - Download contains KG, embeddings, uniprot2genename, and reactome2pathwayname files  
+    
+    - This also contains files that goes with the example provided below  
   
    - `data/GP2VEC_emb_walk_file_40_40_0_0_bwV4_s256_w7_n5_mc5.txt`: embedding KG file
    
