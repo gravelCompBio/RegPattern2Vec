@@ -230,7 +230,7 @@ or
 
 2) After performing the random walk sections of the code in either jupyter notebook, either the embedding files provided can be used or embedding files can be generated from the user’s own data.  If you wish to generate your own embedding files, please see the section below for how to do so with metapath2vec.   
 
-A) If the user creates their own embedding please note the current version of the code assumes 	the use of our provided embedding (generated with the provided Knowledge Graph).  Users will 	need to change file name in code (both notebooks). 
+#### A) If the user creates their own embedding please note the current version of the code assumes that you are just following the example provided and the use of our provided embedding (generated with our data and provided Knowledge Graph).  Users will 	need to change file name in code (both notebooks). 
 
   
 
@@ -238,13 +238,16 @@ A) If the user creates their own embedding please note the current version of th
 
   
 
-## Basic guide for running metapath2vec to generate new embedding files from user generated Random Walk file  
+### Basic guide for running metapath2vec to generate new embedding files from user generated Random Walk file  
 
-  
 
-We utilize files produced by our model containing nodes collected through RegPattern2Vec as input into a portion of the pipeline for metapath2vec used vectorize the data and generate embeddings  
+#### This is only if you want to run this pipeline on custom data. If you are running this pipline on our data/KG provided, you do not have to run metapath2vec because the we provide the output in the `DownloadLinkForData.txt` 
 
-If the user is generating their own data and using their own embedding files, all cells in the notebook should be run until the Link Prediction section. 
+Also this version of metapath2vec we use is computationally expensive and our KG took 200Gb of ram with over 2 days of runtime with 64 cores so if you can find a more effencint version of metapath2vec that you trust, I would suggest you use others versions (one example is embiggen(grape))
+
+We utilize files produced by our model containing nodes collected through RegPattern2Vec as input into a portion of the pipeline for metapath2vec used vectorize the KG nodes and generate embeddings  
+
+If the user is generating their own data and using their own embedding files, all cells in the notebook should be run until the Link Prediction section then you should create the embeddings with metapath2vec. 
 
  
 
