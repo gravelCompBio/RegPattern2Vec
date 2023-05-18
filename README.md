@@ -20,7 +20,7 @@ This repository contains the code and datasets for the manuscript "Predicting Pr
 
   
 
-  - DownloadLinkForData.txt file (the onedrive link in the README.md is the same in this text file )
+  - 'DownloadLinkForData.txt' file (the onedrive link in the README.md is the same in this text file )
 
     - file contains link for download  
 
